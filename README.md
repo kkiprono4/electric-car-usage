@@ -1,12 +1,12 @@
 # electric-car-usage
 
-Description
+# Description
 
 Investigating the electric (bluecars) car usage in Paris during weekdays.
 
 Test a Hypothesis: Whether there is difference in the means of blue cars taken in two different postal codes selected randomly.
 
-Experimental Design
+# Experimental Design
 
 Exploratory Data Analysis.
 
@@ -18,7 +18,7 @@ Visualizations.
 
 Hypothesis Testing 
 
-Setup/Installation Requirements
+# Setup/Installation Requirements
 
 Google colab/jupyter notebook
 
@@ -26,10 +26,10 @@ Python libraries
 
 Github
 
-HYPOTHESIS TESTING
+# HYPOTHESIS TESTING
 
 A Report on Hypothesis testing.
 
-License
+# License
 
 Copyright (c) {2022} {Kevin Kiprono}
